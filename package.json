@@ -1,0 +1,35 @@
+{
+  "name": "sanfood",
+  "version": "1.0.0",
+  "description": "This is a food based app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-santanu/sanfood.git"
+  },
+  "keywords": [
+    "React",
+    "Jsx",
+    "JS"
+  ],
+  "author": "Santanu Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-santanu/sanfood/issues"
+  },
+  "homepage": "https://github.com/git-santanu/sanfood#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslists": [
+    "last 2 versions"
+  ]
+}
